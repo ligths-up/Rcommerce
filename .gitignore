@@ -1,0 +1,7 @@
+# Document Link - https://help.github.com/en/articles/ignoring-files
+
+# Dependencies
+/node_modules
+
+# Production
+/build
