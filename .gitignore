@@ -1,0 +1,4 @@
+# Documents lin - https://help.github.com/en/articles/ignoring-files
+
+# Dependencies
+/node_modules
